@@ -1,0 +1,23 @@
+@import "header.css";
+@import "body.css";
+@import "footer.css";
+@import "media.css";
+
+li{
+    list-style: none;
+    /*line-height: 0.3;*/
+
+}
+body{
+    background: #f2f2f2!important;
+}
+footer{
+    background-color: #292a2c;
+}
+@font-face {
+    font-family: Gilroy-ExtraBold;
+    src: url('https://antares-2000.com.ua//wp-content/themes/Antares/fonts/Gilroy-ExtraBold.ttf');
+}
+button:focus{
+    outline: none!important;
+}

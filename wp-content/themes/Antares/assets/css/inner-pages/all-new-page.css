@@ -1,0 +1,22 @@
+.news__get-details a{
+    border-bottom: 1px dotted;
+    color: #ffbf00;
+    font-weight: 600;
+}
+.news__get-details:hover{
+    text-decoration: none;
+}
+.news__get-details a:after{
+    content: '';
+    display: block;
+    width: 25px;
+    height: 15px;
+    background: url("../../images/arrow-2-right_antares.png");
+    margin-left: .7rem;
+}
+.antares-get-getails a{
+    border-bottom: 1px dotted;
+}
+.antares-get-getails a:hover{
+    color: #ffbf00!important;
+}

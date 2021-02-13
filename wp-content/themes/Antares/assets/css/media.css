@@ -1,0 +1,378 @@
+@media screen and (max-width: 374px){
+    .header-slogan h1{
+        font-size: 2rem;
+
+    }
+    .header-slogan {
+        margin-left: 10%;
+    }
+    #menu-item-269:before{
+        display: none;
+    }
+    #menu-header-menu{
+        max-width: 120px!important;
+    }
+    .navbar:after{
+        top: 100%;
+    }
+    .about-antares .body-header{
+        margin-top: 0;
+        font-size:2.5rem ;
+    }
+    .about-antares img{
+        width: 90%;
+    }
+    .about-antares .body-header{
+        font-size:2rem ;
+    }
+    .news-and-posts img{
+        width: 100%;
+        height: auto;
+
+        /*width: 300px!important;*/
+        /*height: 200px!important;*/
+    }
+    .copy .container .row div{
+        text-align: center!important;
+    }
+    .consultation-card img{
+        display: none;
+    }
+
+}
+@media screen and (min-width: 375px) and (max-width: 424px){
+    .header-slogan h1{
+        font-size: 2.5rem;
+    }
+    .header-slogan {
+        margin-left: 10%;
+    }
+    #menu-item-269:before{
+        display: none;
+    }
+    #menu-header-menu{
+        max-width: 120px!important;
+    }
+    .navbar:after{
+        top: 100%;
+    }
+    .about-antares .body-header{
+        margin-top: 0;
+        font-size:2.5rem ;
+    }
+    .news-and-posts img{
+        width: 300px!important;
+        height: 200px!important;
+    }
+    .copy .container .row div{
+        text-align: center!important;
+    }
+    .consultation-card img{
+        display: none;
+    }
+}
+@media screen and (min-width: 425px) and (max-width:767px ){
+    .header-slogan h1{
+        font-size: 1.9rem;
+    }
+    .header-slogan {
+        margin-left: 10%;
+    }
+    #menu-item-269:before{
+        display: none;
+    }
+    #menu-header-menu{
+        max-width: 120px!important;
+    }
+    .navbar:after{
+        top: 100%;
+    }
+    .slick-track img{
+        width: 260px!important;
+    }
+    .consultation-card img {
+        display: none;
+    }
+
+}
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    /*==============header navbar=================*/
+
+    #menu-item-269:before{
+        display: none;
+    }
+    #menu-header-menu{
+        max-width: 120px!important;
+    }
+    .navbar:after{
+        top: 100%;
+    }
+    .consultation-card__description{
+        padding: 3rem!important;
+    }
+    .consultation-card img{
+        padding-right: 10px;
+    }
+    .navbar-account {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .header-slogan {
+        margin: 5%;
+        margin-left: 10%;
+    }
+    .header-slogan h1 {
+        font-size: 2rem;
+    }
+    /*==============end header navbar=================*/
+
+    /* ====================news and posts ============*/
+    .news-and-posts img{
+        width: 160px!important;
+        height: 200px!important;
+    }
+    /*===============end news ==================*/
+    .about-antares .body-header{
+        margin-top: 0;
+    }
+    #n2-ss-3-arrow-next{
+        display: none;
+    }
+    #n2-ss-3-arrow-previous{
+        display: none;
+    }
+    .about-antares .body-header p{
+        font-size: 30px;
+    }
+    .footer-services a{
+        font-size: 14px;
+    }
+    .slick-arrow{
+        display: none!important;
+    }
+    .n2-ss-img-wrapper.n2-ss-img-crop.n2-ss-item-content.n2-ow img{
+        width: 740px!important;
+    }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px){
+    .menu-phones ul {
+        display: none!important;
+    }
+}
+@media screen and (min-width: 1024px) and (max-width: 1430px) {
+    .nav-link{
+        padding: 0.8rem!important;
+    }
+    /*.custom-logo-link{*/
+    /*    display: none!important;*/
+    /*}*/
+    .header-phone{
+        font-size: 15px;
+    }
+    .first-screen{
+        height: auto;
+    }
+    #n2-ss-3-arrow-next{
+        display: none;
+    }
+    #n2-ss-3-arrow-previous{
+        display: none;
+    }
+    .documents-slider__prev-arrow{
+        left: -235px;
+    }
+    .documents-slider__next-arrow{
+        left: -170px;
+    }
+    .navbar-actions{
+        right: 5px;
+    }
+    .navbar-search__btn{
+        display: none!important;
+    }
+    .antares__documents_btn{
+        line-height: 1!important;
+    }
+        /* ====================news and posts ============*/
+    .news-and-posts img{
+        width: 300px!important;
+        height: 200px!important;
+    }
+    /*===============end news ==================*/
+}
+@media screen and (min-width: 1536px) and (max-width: 1756px){
+    .nav-link{
+        padding: .5rem 0.8rem!important;
+    }
+    .navbar-search__btn{
+        margin-right: 15px;
+    }
+    .navbar-search__btn {
+        margin-left: 25px;
+    }
+}
+
+@media screen and (max-width: 991px){
+    .first-screen{
+        background-position: center 140px !important;
+    }
+
+    .scroll-ico {
+        display: none;
+    }
+
+    /*.header-slogan{*/
+    /*    padding-bottom: 0;*/
+    /*    margin: 8%;*/
+    /*}*/
+}
+
+
+@media screen and (max-width: 768px) {
+    .video-preview {
+        width: 100%;
+        height: auto;
+        min-height: 350px;
+        border-radius: 5px;
+    }
+
+    .video-about {
+        height: 280px;
+        width: 410px;
+    }
+
+    .get-details-btn {
+        transform: translateY(30px);
+    }
+
+    .about-antares__content-wrapper div {
+        padding-bottom: 1rem !important;
+        padding-top: 1rem !important;
+    }
+
+    .partners__image {
+        max-width: 175px !important;
+    }
+
+    .search-form_form {
+        display: none;
+    }
+
+    .contacts-email {
+        font-size: 12px !important;
+    }
+
+    /*.custom-logo-link {*/
+    /*    display: none;*/
+    /*}*/
+    .navbar-account {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+
+    .collapse.show {
+        display: flex;
+        margin-left: 0 !important;
+    }
+
+    .header-rigth-menu {
+        margin-left: 0;
+    }
+
+    #menu-header-menu-right {
+        align-items: start !important;
+    }
+
+    .navbar-toggler {
+        margin-top: 10px;
+    }
+
+    .consultation-card__description {
+        padding: 5rem 0rem 4rem 2.5rem !important;
+    }
+
+    .n2-ow .actions-slider-img {
+        margin: 0 !important;
+    }
+
+    .documents-block, .documents-details {
+        display: none !important;
+    }
+
+    .menu-phones {
+        display: none !important;
+    }
+
+    .navbar {
+        border-bottom: none;
+    }
+
+    .header-consultation-btn, .scroll-ico {
+        display: none !important;
+    }
+
+    header {
+        height: 80px;
+    }
+
+    .first-screen {
+        background-size: contain !important;
+        min-height: 500px;
+        /*padding-top: 70px;*/
+    }
+
+    .banner-section {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 600px){
+  .body-header{
+    margin-top: 0;
+  }
+
+  .first-screen{
+    padding:  0;
+    background-size: 650px !important;
+    min-height: 520px;
+  }
+
+  .first-screen header{
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 575px) {
+    .video-preview {
+        min-height: 300px;
+    }
+}
+
+@media screen and (max-width: 450px){
+    .first-screen{
+        background-size: 705px !important;
+        min-height: 515px;
+    }
+}
+
+@media screen and (max-width: 400px){
+    .first-screen{
+        background-size: 678px !important;
+        min-height: 530px;
+    }
+}
+
+@media screen and (max-width: 350px){
+    .first-screen{
+        background-size: 590px !important;
+        min-height: 470px;
+    }
+}
+
+
+
+
+
+

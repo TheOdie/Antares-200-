@@ -1,0 +1,117 @@
+.actions-page{
+    font-family:'Gilroy-light',sans-serif;
+}
+.action-image {
+    border-radius: 5px;
+    width: 100%;
+    min-width: 250px;
+    height: auto;
+}
+.actions-page__title{
+    font-family:'Gilroy-ExtraBold',sans-serif!important;
+    font-size: 2.87rem;
+    margin-bottom: 3rem;
+}
+.action-alert{
+    width: 80px;
+    height: 25px;
+    background: #f22738;
+    color: white;
+    border-radius: 3px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+.action-item__title{
+    max-width: 500px;
+    font-size: 1.5rem;
+    font-family:'Gilroy-ExtraBold',sans-serif!important;
+    margin-bottom: 1.4rem;
+}
+.action__button-wrapper{
+    max-width: 420px;
+}
+.action-date{
+    padding: 15px 30px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+.action__get-details{
+    border-bottom: 2px solid #b38600!important;
+    background: linear-gradient(#ffce3e 40%, #fbae23) !important;
+    padding: 15px 35px!important;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+.action-date_over{
+    padding: 15px 30px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    background-color: #cccccc;
+}
+.pagination-arrow{
+    width: 50px;
+    height: 50px;
+    border: 1px solid #fccb37;
+    display: block;
+    border-radius: 50%;
+    margin: 50px;
+}
+.pagination-page a{
+    margin: 25px;
+    color: black;
+}
+.pagination-page .active{
+    font-weight: 800;
+}
+.arrow-left, .arrow-right{
+    height: 15px;
+    fill: #fccb37;
+}
+.arrow-right{
+    transform: rotate(180deg);
+}
+
+
+
+.rounded-right{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+
+/*=========================media======================*/
+@media screen and (min-width: 320px) and (max-width: 426px){
+    .action__get-details {
+        padding: 20px 11px !important;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 20px;
+    }
+    /*.action-image {*/
+    /*    display: none;*/
+    /*}*/
+    .action-alert {
+        display: none;
+    }
+    .action-date {
+        padding: 5px 20px;
+        line-height: 1.1;
+        margin-right: 15px;
+    }
+    .pagination-page {
+        display: flex;
+    }
+    /*.action-image-wrapper {*/
+    /*    display: none;*/
+    /*}*/
+    @media screen and (min-width: 768px) and (max-width: 1025px){
+
+    }
+    @media screen and (max-width: 768px){
+    }
+}

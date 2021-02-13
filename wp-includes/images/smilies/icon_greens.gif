@@ -1,0 +1,337 @@
+﻿<!--Template Name: Contacts-->
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>#bbbtitsbbb#</title>
+<meta name="keywords"  content="#bbbkeybbb#" />
+<meta name="description"  content="#bbbdesbbb#" />
+</head>
+<body>
+#bbb1content1bbb#
+
+<header>
+    <nav class="navbar navbar-expand-lg w-100 pt-0 pb-0">
+        <a href="https://antares-2000.com.ua/" class="custom-logo-link" rel="home"><img width="98" height="109" src="https://antares-2000.com.ua/wp-content/uploads/2020/07/cropped-logo.png" class="custom-logo" alt="antares"></a>        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div id="navbarSupportedContent" class="collapse navbar-collapse navbar-left"><ul id="header-menu-left" class="navbar-nav  align-items-center"><li id="menu-item-5" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item nav-item-5  dropdown">
+<a title="Полтава" href="http://antares-2000.com.ua/#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true">Полтава</a>
+<div role="menu" class=" dropdown-menu">
+<a title="Кременчуг" href="http://antares-2000.com.ua/#" class="menu-item menu-item-type-custom menu-item-object-custom dropdown-item" id="menu-item-249">Кременчуг</a><a title="Київ" href="http://antares-2000.com.ua/#" class="menu-item menu-item-type-custom menu-item-object-custom dropdown-item" id="menu-item-248">Київ</a>
+</div>
+</li></ul></div>        <div id="navbarSupportedContent" class="collapse navbar-collapse navbar-left menu-phones ml-3">
+<p>#link1#</p>
+<ul id="menu-%d1%82%d0%b5%d0%bb%d0%b5%d1%84%d0%be%d0%bd%d1%8b" class="navbar-nav flex-wrap  align-items-center">
+<li id="menu-item-479" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-479"><a title='&lt;span class="yellow-text"&gt;(099) &lt;/span&gt; 097-88-18' href="http://antares-2000.com.ua/tel:0990978818" class="nav-link"><span class="yellow-text">(099) </span> 097-88-18</a></li>
+<li id="menu-item-480" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-480"><a title='&lt;span class="yellow-text"&gt;(097)&lt;/span&gt; 097-88-18' href="http://antares-2000.com.ua/tel:0970978818" class="nav-link"><span class="yellow-text">(097)</span> 097-88-18</a></li>
+<li id="menu-item-481" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-481"><a title='&lt;span class="yellow-text"&gt;(093)&lt;/span&gt; 097-88-18' href="http://antares-2000.com.ua/tel:0930978818" class="nav-link"><span class="yellow-text">(093)</span> 097-88-18</a></li>
+<li id="menu-item-485" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-485"><a title='&lt;span class="yellow-text"&gt;(0532)&lt;/span&gt; 56-53-13' href="http://antares-2000.com.ua/tel:0532565313" class="nav-link"><span class="yellow-text">(0532)</span> 56-53-13</a></li>
+</ul>
+</div>        <div class="header-rigth-menu">
+            <div id="navbarSupportedContent" class="collapse navbar-collapse header-right">
+<p>#bbb2content2bbb#</p>
+<ul id="menu-header-menu-right" class="navbar-nav ml-auto">
+<li id="menu-item-665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item nav-item-665  dropdown">
+<a title="Послуги" href="http://antares-2000.com.ua/#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true">Послуги</a>
+<div role="menu" class=" dropdown-menu">
+<a title="Антиугон" href="https://antares-2000.com.ua/services/6666/" class="menu-item menu-item-type-post_type menu-item-object-services dropdown-item" id="menu-item-675">Антиугон</a><a title="Підготовка охоронців" href="https://antares-2000.com.ua/services/888/" class="menu-item menu-item-type-post_type menu-item-object-services dropdown-item" id="menu-item-674">Підготовка охоронців</a><a title="Надання юридичних послуг" href="https://antares-2000.com.ua/services/999/" class="menu-item menu-item-type-post_type menu-item-object-services dropdown-item" id="menu-item-673">Надання юридичних послуг</a><a title="Системи контролю доступу" href="https://antares-2000.com.ua/services/10/" class="menu-item menu-item-type-post_type menu-item-object-services dropdown-item" id="menu-item-672">Системи контролю доступу</a><a title="Відстеження засобів прихованого стеження" href="https://antares-2000.com.ua/services/11/" class="menu-item menu-item-type-post_type menu-item-object-services dropdown-item" id="menu-item-671">Відстеження засобів прихованого стеження</a><a title="Перевірка на детекторі брехні (поліграф)" href="https://antares-2000.com.ua/services/12/" class="menu-item menu-item-type-post_type menu-item-object-services dropdown-item" id="menu-item-670">Перевірка на детекторі брехні (поліграф)</a><a title="Монтаж відеоспостереження" href="https://antares-2000.com.ua/services/4/" class="menu-item menu-item-type-post_type menu-item-object-services dropdown-item" id="menu-item-669">Монтаж відеоспостереження</a><a title="Пожежна і техногенна безпека" href="https://antares-2000.com.ua/services/2/" class="menu-item menu-item-type-post_type menu-item-object-services dropdown-item" id="menu-item-668">Пожежна і техногенна безпека</a><a title="Пультова охорона" href="https://antares-2000.com.ua/services/1/" class="menu-item menu-item-type-post_type menu-item-object-services dropdown-item" id="menu-item-667">Пультова охорона</a><a title="Фізична охорона" href="https://antares-2000.com.ua/services/7/" class="menu-item menu-item-type-post_type menu-item-object-services dropdown-item" id="menu-item-666">Фізична охорона</a>
+</div>
+</li>
+<li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item nav-item-384  dropdown">
+<a title="Про нас" href="http://antares-2000.com.ua/#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true">Про нас</a>
+<div role="menu" class=" dropdown-menu">
+<p>#link2#</p>
+
+<a title="Про нас" href="https://antares-2000.com.ua/about-us/" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" id="menu-item-649">Про нас</a><a title="Фотогалерея" href="https://antares-2000.com.ua/photogallery/" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" id="menu-item-632">Фотогалерея</a>
+</div>
+</li>
+<li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-425"><a title="Акції" href="https://antares-2000.com.ua/action/" class="nav-link">Акції</a></li>
+<li id="menu-item-519" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-519"><a title="Документи" href="https://antares-2000.com.ua/documents/" class="nav-link">Документи</a></li>
+<li id="menu-item-610" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-610"><a title="Новини" href="https://antares-2000.com.ua/news/" class="nav-link">Новини</a></li>
+<li id="menu-item-560" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-560"><a title="Вакансії" href="https://antares-2000.com.ua/vacancies/" class="nav-link">Вакансії</a></li>
+<li id="menu-item-491" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-489 current_page_item  active nav-item nav-item-491"><a title="Контакти" href="https://antares-2000.com.ua/contacts/" class="nav-link">Контакти</a></li>
+</ul>
+</div>
+        </div>
+        <form role="search" method="get" id="searchform" class="search-form_form" action="https://antares-2000.com.ua/">
+    <input type="text" placeholder="Введіть для пошуку..." class="search-form" value="" name="s" id="s">
+
+    <li class="nav-item">
+        <btn type="submit" id="search-form_btn" class="nav-link navbar-search__btn" href="http://antares-2000.com.ua/#" tabindex="-1" aria-disabled="true"></btn>
+    </li>
+</form>
+                <li class="nav-item">
+                    <a class="nav-link text-white small-text navbar-account" href="http://antares-2000.com.ua/#" tabindex="-1" aria-disabled="true">
+                        <span class="">
+                            Мій кабінет
+                        </span>
+                    </a>
+                </li>
+    </nav>
+    <link rel="dns-prefetch" href="http://antares-2000.com.ua//s.w.org">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/antares-2000.com.ua\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://antares-2000.com.ua/wp-includes/css/dist/block-library/style.min.css?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://antares-2000.com.ua/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/style.css?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="text-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/assets/css/main_styles.css?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="variables-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/assets/css/variables.css?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/assets/css/bootstrap/bootstrap.min.css?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="slick-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/assets/slick/slick.css?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="font1-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/fonts/Gilroy-ExtraBold.ttf?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="font2-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/fonts/Gilroy-Light.ttf?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="about-us-page-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/assets/css/inner-pages/about_us_page.css?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="all-action-page-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/assets/css/inner-pages/actions.css?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="action-item-page-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/assets/css/inner-pages/action-item.css?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="news-page-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/assets/css/inner-pages/all-new-page.css?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="single-news-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/assets/css/inner-pages/news-item.css?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="vacancies-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/assets/css/inner-pages/vacancies.css?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="documents-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/assets/css/inner-pages/documents.css?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="contacts-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/assets/css/inner-pages/contacts.css?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="photogallery-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/assets/css/inner-pages/photogallery.css?ver=5.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="service-css" href="https://antares-2000.com.ua/wp-content/themes/Antares/assets/css/inner-pages/single-service.css?ver=5.4.4" type="text/css" media="all">
+<script type='text/javascript' src='https://antares-2000.com.ua/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://antares-2000.com.ua/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var misha_loadmore_params = {"ajaxurl":"https:\/\/antares-2000.com.ua\/wp-admin\/admin-ajax.php","posts":"actions","current_page":"1","max_page":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://antares-2000.com.ua/wp-content/themes/Antares/assets/js/pagination.js?ver=5.4.4'></script>
+<link rel="https://api.w.org/" href="https://antares-2000.com.ua/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://antares-2000.com.ua/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://antares-2000.com.ua/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.4.4">
+
+
+<link rel="alternate" type="application/json+oembed" href="https://antares-2000.com.ua/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fantares-2000.com.ua%2Fcontacts%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://antares-2000.com.ua/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fantares-2000.com.ua%2Fcontacts%2F&amp;format=xml">
+<link rel="icon" href="https://antares-2000.com.ua/wp-content/uploads/2020/07/cropped-logo-1-32x32.png" sizes="32x32">
+<link rel="icon" href="https://antares-2000.com.ua/wp-content/uploads/2020/07/cropped-logo-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://antares-2000.com.ua/wp-content/uploads/2020/07/cropped-logo-1-180x180.png">
+<meta name="msapplication-TileImage" content="https://antares-2000.com.ua/wp-content/uploads/2020/07/cropped-logo-1-270x270.png">
+</header>
+
+
+
+
+
+<section class="contacts">
+    <div class="container pb-5">
+        <nav aria-label="breadcrumb ">
+            <ol class="breadcrumb bg-transparent pl-0">
+                <li class="breadcrumb-item"><a href="http://antares-2000.com.ua/">Головна</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Контакти</li>
+            </ol>
+        </nav>
+        <div class="d-flex justify-content-between contacts-page__title_wrapper">
+            <h1 class="actions-page__title">
+                КОНТАКТНА ІНФОРМАЦІЯ            </h1>
+            <a href="http://antares-2000.com.ua/#write-us" class="contacts__contact-us_btn text-dark midle">
+                Напишіть нам
+            </a>
+        </div>
+        <div class="row">
+                                                    <div class="col-md-5 mt-4">#descontent# <p>#link3#</p></div>
+                <div class="col-md-7 mb-5 contacts-page__map">
+                    <img width="640" height="382" src="https://antares-2000.com.ua/wp-content/uploads/2020/07/poltava-e1599484303420.png" class="attachment- size- wp-post-image" alt="">                </div>
+                            <div class="col-md-5 mt-4">
+                    <p class="contacts-page__office-title extra-bold mt-3 text-left">ОФІС В КИЄВІ</p>
+                    <div class="office-details small-text midle">
+<p>м. КиЇв, бул. Лесі Українки, 7б, офіс 155</p>
+<p>(044) 333-48-89<br>(066) 552-66-88</p>
+</div>
+                </div>
+                <div class="col-md-7 mb-5 contacts-page__map">
+                    <img width="640" height="382" src="https://antares-2000.com.ua/wp-content/uploads/2020/07/kiev-e1599484337580.png" class="attachment- size- wp-post-image" alt="">                </div>
+                            <div class="col-md-5 mt-4">
+                    <p class="contacts-page__office-title extra-bold mt-3 text-left">ОФІС В КРЕМЕНЧУЦІ</p>
+                    <div class="office-details small-text midle">
+<p>Полтавська обл, м. Кременчук, вул. Перемоги, 3а</p>
+<p>(095) 553-40-93</p>
+</div>
+                </div>
+                <div class="col-md-7 mb-5 contacts-page__map">
+                    <img width="640" height="382" src="https://antares-2000.com.ua/wp-content/uploads/2020/07/kremenchuk-e1599484344850.png" class="attachment- size- wp-post-image" alt="">                </div>
+                    </div>
+    </div>
+    <div class="container-fluid bg-white text-center">
+        <div class="container text-center">
+            <h1 class="contacts-page__title pt-4">
+                Є питання — Напишіть нам            </h1>
+<!--            <form class="contacts__contacts-form" id="write-us">-->
+<!--                <div class="d-flex justify-content-center">-->
+<!--                    <input class="contacts__contacts_input mr-2" type="text" placeholder="Ваше ім'я">-->
+<!--                    <input class="contacts__contacts_input" type="text" placeholder="Номер телефону">-->
+<!--                </div>-->
+<!--                <textarea class="contacts__contacts_text" placeholder="Текст повідомлення" name="" id=""></textarea>-->
+<!--                <div class="d-flex justify-content-center">-->
+<!--                    <div class="d-flex align-items-center">-->
+<!--                        <button class="contacts__contacts_button mt-3" type="submit">Відправити</button>-->
+<!--                        <small class="contacts__personal-data mt-2">Натискаючи кнопку, я даю згоду на-->
+<!--                            обробку <a href="http://antares-2000.com.ua/#" class="text-grey">Персональних данних</a></small>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </form>-->
+            <div role="form" class="wpcf7" id="wpcf7-f692-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response" role="alert" aria-live="polite"></div>
+<form action="http://antares-2000.com.ua/contacts/#wpcf7-f692-o1" method="post" class="wpcf7-form init" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="692">
+<input type="hidden" name="_wpcf7_version" value="5.2.2">
+<input type="hidden" name="_wpcf7_locale" value="ru_RU">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f692-o1">
+<input type="hidden" name="_wpcf7_container_post" value="0">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+<div class="contacts__contacts-form" id="write-us">
+<div class="d-flex justify-content-center contacts-page__contact-us">
+<span class="wpcf7-form-control-wrap text-949"><input type="text" name="text-949" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required contacts__contacts_input mr-2" aria-required="true" aria-invalid="false" placeholder="Ваше ім'я"></span> <span class="wpcf7-form-control-wrap tel-567"><input type="tel" name="tel-567" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel contacts__contacts_input" aria-required="true" aria-invalid="false" placeholder="Номер телефону"></span>
+</div>
+<p><span class="wpcf7-form-control-wrap textarea-977"><textarea name="textarea-977" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required contacts__contacts_text" aria-required="true" aria-invalid="false" placeholder="Текст повідомлення"></textarea></span></p>
+<div class="d-flex justify-content-center">
+<div class="d-flex align-items-center contacts-page__contact-us">
+                        <input type="submit" value="Відправити" class="wpcf7-form-control wpcf7-submit contacts__contacts_button mt-3 ml-3"><br>
+                        <small class="contacts__personal-data mt-2">Натискаючи кнопку, я даю згоду на<br>
+                            обробку <a href="http://antares-2000.com.ua/#" class="text-grey">Персональних данних</a></small>
+                    </div>
+</div>
+</div>
+<div class="wpcf7-response-output" role="alert" aria-hidden="true">
+<p>#flink#</p>
+</div>
+</form>
+</div>        
+
+</div>
+    </div>
+</section>
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-4 mt-5">
+                                                                        <p class="extra-bold middle-text mt-3 text-white text-left">ПОСЛУГИ</p>
+                        <div class="footer-services small-text light">
+<p><a href="https://antares-2000.com.ua/services/7/">Фізична охорона</a></p>
+
+
+
+<p><a href="https://antares-2000.com.ua/services/1/">Пультова охорона</a></p>
+
+
+
+<p><a href="https://antares-2000.com.ua/services/2/">Пожежна і техногенна безпека</a></p>
+
+
+
+
+
+<p><a href="https://antares-2000.com.ua/services/4/">Монтаж відеоспостереження</a></p>
+
+
+
+<p><a href="https://antares-2000.com.ua/services/12/">Перевірка на детекторі брехні<br>(поліграф)</a></p>
+
+
+
+<p><a href="https://antares-2000.com.ua/services/11/">Відстеження засобів прихованого стеження</a></p>
+
+
+
+<p><a href="https://antares-2000.com.ua/services/10/">Системи контролю доступу та обліку <br>робочого часу</a></p>
+
+
+
+<p><a href="https://antares-2000.com.ua/services/999/">Надання юридичних послуг</a></p>
+
+
+
+<p><a href="https://antares-2000.com.ua/services/888/">Підготовка охоронців I-III розрядів</a></p>
+
+
+
+<p><a href="https://antares-2000.com.ua/services/6666/">Антиугон</a></p>
+</div>
+                            </div>
+            <div class="col-md-6 col-sm-4 d-flex flex-column align-items-center mt-5">
+                <div class="footer-logo mt-5 mb-4">
+                    <a href="https://antares-2000.com.ua/" class="custom-logo-link" rel="home"><img width="98" height="109" src="https://antares-2000.com.ua/wp-content/uploads/2020/07/cropped-logo.png" class="custom-logo" alt="antares"></a>                </div>
+<!--                <img class="mt-5 mb-4" src="http://antares-2000.com.ua/--><!--" alt="">-->
+                <p class="text-white extra-bold mb-5">Працюємо для вас з <span class="yellow-text">1999</span> року</p>
+                <div class="log-in-footer-wrapper">
+                    <a href="http://antares-2000.com.ua/#" class="log-in-link">
+                        <div class="log-in-footer text-white d-flex justify-content-between">
+                            <span class="light">Мій кабінет</span>
+                        
+<p>#link4#</p>
+</div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-4 mt-5">
+                                                                    <p class="extra-bold middle-text mt-3 text-white text-left">ГОЛОВНИЙ ОФІС В ПОЛТАВІ</p>
+                    <div class="footer-services small-text light">
+<p>м. Полтава, вул. Шевченка, 100</p>
+<p>(099) 097-18-88<br>(097) 097-18-88<br>(093) 097-18-88<br>(0532) 56-53-13</p>
+<p><span class="contacts-email">tov.antares2000@gmail.com</span><br><span class="contacts-email">tov.antares2000@gmail.com</span></p>
+</div>
+                                    <p class="extra-bold middle-text mt-3 text-white text-left">ОФІС В КИЄВІ</p>
+                    <div class="footer-services small-text light">
+<p>м. КиЇв, бул. Лесі Українки, 7б, офіс 155</p>
+<p>(044) 333-48-89<br>(066) 552-66-88</p>
+</div>
+                                    <p class="extra-bold middle-text mt-3 text-white text-left">ОФІС В КРЕМЕНЧУЦІ</p>
+                    <div class="footer-services small-text light">
+<p>Полтавська обл, м. Кременчук, вул. Перемоги, 3а</p>
+<p>(095) 553-40-93</p>
+</div>
+                            </div>
+        </div>
+    </div>
+    <section class="copy">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 text-left light">
+                    Copyright © 2020. ТОВ «Антарес-2000» — Всі права захищені
+                </div>
+                <div class="col-md-6 col-sm-6 text-right light" style="padding-right: 2.3rem ">
+                    Розробка сайту — React Logic
+                </div>
+            </div>
+        </div>
+    </section>
+    <script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/antares-2000.com.ua\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://antares-2000.com.ua/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2'></script>
+<script type='text/javascript' src='https://antares-2000.com.ua/wp-includes/js/wp-embed.min.js?ver=5.4.4'></script>
+<script type='text/javascript' src='https://antares-2000.com.ua/wp-content/themes/Antares/assets/js/bootstrap.min.js?ver=5.4.4'></script>
+<script type='text/javascript' src='https://antares-2000.com.ua/wp-content/themes/Antares/assets/slick/slick.min.js?ver=5.4.4'></script>
+<script type='text/javascript' src='https://antares-2000.com.ua/wp-content/themes/Antares/assets/js/script.js?ver=5.4.4'></script>
+
+</footer>
+</body>
+</html>

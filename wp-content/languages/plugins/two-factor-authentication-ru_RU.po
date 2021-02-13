@@ -1,0 +1,525 @@
+# Translation of Plugins - Two Factor Authentication - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Two Factor Authentication - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-02 07:05:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Two Factor Authentication - Stable (latest release)\n"
+
+#: includes/admin_settings.php:148
+msgid "The Premium version of this plugin allows you to add a configuration tab for users in the WooCommerce \"My account\" area."
+msgstr "Премиум-версия этого плагина позволяет добавить вкладку с настройками для пользователей в разделе «Моя учетная запись» WooCommerce."
+
+#: includes/admin_settings.php:146
+msgid "WooCommerce integration"
+msgstr "Интеграция с WooCommerce"
+
+#: includes/tfa_frontend.php:66
+msgid "The TFA code you entered was incorrect."
+msgstr "Введенный вами код TFA неверен."
+
+#: includes/tfa_frontend.php:58
+msgid "To enable TFA, you must enter the current code."
+msgstr "Для включения TFA, вы должны ввести текущий код."
+
+#: two-factor-login.php:441
+msgid "(you must enter the current code: %s)"
+msgstr "(вы должны ввести текущий код: %s)"
+
+#: includes/class-simba-tfa.php:352
+msgid "The indicated user could not be found."
+msgstr "Указанный пользователь не найден."
+
+#: includes/admin_settings.php:214
+msgid "allow privileged (or all) users to mark a device as trusted and thereby only needing to supply a TFA code upon login every so-many days (e.g. every 30 days) instead of on each login."
+msgstr "разрешить привилегированным (или всем) пользователям помечать устройство как надежное и, таким образом, ему нужно только предоставлять код TFA при входе в систему каждые столько дней (например, каждые 30 дней), а не при каждом входе в систему."
+
+#: includes/admin_settings.php:213
+msgid "require your users to set up TFA to be able to log in, after an optional grace period."
+msgstr "требовать, чтобы ваши пользователи настроили TFA для возможности входа в систему после дополнительного льготного периода."
+
+#: includes/admin_settings.php:213
+msgid "Make TFA compulsory"
+msgstr "Сделать TFA обязательной"
+
+#: includes/admin_settings.php:90
+msgid "Allowing users to mark a device as trusted so that a two-factor code is only needed once in a specified number of days (instead of every login) is a feature of the Premium version of this plugin."
+msgstr "Возможность помечать устройство как доверенное, чтобы двухфакторный код требовался только один раз в указанное количество дней (вместо каждого входа в систему), является функцией Premium-версии этого плагина."
+
+#: includes/admin_settings.php:87
+msgid "Choose which user roles are permitted to mark devices they login on as trusted. This feature requires browser cookies and an https (i.e. SSL) connection to the website to work."
+msgstr "Выберите какие роли пользователей смогут помечать устройства как доверенные, на которых они входят. Для работы этой функции требуются cookie файлы браузера и соединение https (т.е. SSL) с веб-сайтом."
+
+#: includes/admin_settings.php:83 includes/admin_settings.php:214
+msgid "Trusted devices"
+msgstr "Доверенные устройства"
+
+#: two-factor-login.php:1044 two-factor-login.php:1208
+msgid "(Trusted device)"
+msgstr "(Доверенные устройства)"
+
+#: includes/user_settings.php:58
+msgid "N.B. Getting your TFA app/device to generate the correct code depends upon a) you first setting it up by entering or scanning the code below into it, and b) upon your web-server and your TFA app/device agreeing upon the UTC time (within a minute or so). The current UTC time according to the server when this page loaded: %s, and in the time-zone you have configured in your WordPress settings: %s"
+msgstr "ПРИМЕЧАНИЕ: Получение правильного кода в вашем TFA приложении/устройстве зависит от следующих пунктов, а) Сначала вы должны настроить приложение/устройство, введя или отсканировав в него приведенный ниже код, и б) ваш веб-сервер и ваше TFA приложение/устройство должны быть согласованы по времени (разница не более минуты или около того). Текущее время UTC в соответствии с сервером, когда эта страница загружалась: %s, или согласно часовому поясу, который вы указали в настройках WordPress: %s"
+
+#: two-factor-login.php:1128
+msgid "If you activate two-factor authentication, then verify that your two-factor application and this page show the same One-Time Password (within a minute of each other) before you log out."
+msgstr "Если вы активируете двухфакторную аутентификацию, перед выходом из системы убедитесь, что в вашем двухфакторном приложении и на этой странице отображается один и тот же одноразовый код (в течение одной минуты)."
+
+#: two-factor-login.php:1118 two-factor-login.php:1122
+msgid "The site-wide administration options are here."
+msgstr "Администрирование настроек для всего сайта здесь."
+
+#: two-factor-login.php:914
+msgid "Otherwise, you can type the textual private key (shown below) into your app. Always keep private keys secret."
+msgstr "В противном случае вы можете ввести текстовый закрытый ключ (показанный ниже) в свое приложение. Всегда держите секретные ключи в секрете."
+
+#: two-factor-login.php:912
+msgid "For OTP apps that support using a camera to scan a setup code (below), that is the quickest way to set the app up (e.g. with Duo Mobile, Google Authenticator)."
+msgstr "Для приложений OTP, которые поддерживают использование камеры для сканирования установочного кода (ниже), это самый быстрый способ настройки приложения (например, с помощью Duo Mobile, Google Authenticator)."
+
+#: two-factor-login.php:907
+msgid "Setting up"
+msgstr "Настройка"
+
+#: two-factor-login.php:904
+msgid "Setting up - either scan the code, or type in the private key"
+msgstr "Настройка - отсканируйте код, либо введите закрытый ключ вручную"
+
+#: two-factor-login.php:439
+msgid "(Current code: %s)"
+msgstr "(Текущий код: %s)"
+
+#: two-factor-login.php:1257
+msgid "2FA"
+msgstr "2FA"
+
+#: two-factor-login.php:917
+msgid "an event based algorithm"
+msgstr "алгоритм основанный на событиях"
+
+#: two-factor-login.php:917
+msgid "a time based algorithm"
+msgstr "алгоритм основанный на времени"
+
+#: two-factor-login.php:917
+msgid "You are currently using %s, %s"
+msgstr "Сейчас вы используете %s, %s"
+
+#: includes/class-simba-tfa.php:213
+msgid "There are no emergency codes left. You will need to reset your private key."
+msgstr "Кодов экстренного доступа более не осталось. Вам необходимо сбросить ваш закрытый ключ."
+
+#. Author URI of the plugin
+msgid "https://www.simbahosting.co.uk"
+msgstr "https://www.simbahosting.co.uk"
+
+#. Author of the plugin
+msgid "David Nutbourne + David Anderson, original plugin by Oskar Hane"
+msgstr "David Nutbourne + David Anderson, оригинальный плагин Oskar Hane"
+
+#. Description of the plugin
+msgid "Secure your WordPress login forms with two factor authentication - including WooCommerce login forms"
+msgstr "Защитите вашу форму авторизации WordPress с помощью двухфакторной аутентификации - включая формы авторизации WooCommerce."
+
+#. Plugin URI of the plugin
+msgid "https://www.simbahosting.co.uk/s3/product/two-factor-authentication/"
+msgstr "https://www.simbahosting.co.uk/s3/product/two-factor-authentication/"
+
+#: two-factor-login.php:1205
+msgid "One Time Password"
+msgstr "Одноразовый пароль"
+
+#: two-factor-login.php:1203
+msgid "Enter One Time Password (if you have one)"
+msgstr "Введите одноразовый пароль (если он у вас, конечно же, есть)"
+
+#: two-factor-login.php:1128
+msgid "You should also bookmark the FAQs, which explain how to de-activate the plugin even if you cannot log in."
+msgstr "Вам также стоит добавить в закладки ЧаВо, где рассказано как отключить плагин в случае, если вы вдруг не можете войти."
+
+#: two-factor-login.php:1111
+msgid "Nothing you change here will have any effect on other users."
+msgstr "Всё, что здесь настраивается, никак не влияет на других пользователей."
+
+#: two-factor-login.php:1111
+msgid "These are your personal settings."
+msgstr "Это ваши персональные настройки."
+
+#: two-factor-login.php:1079
+msgid "Click here and re-scan the QR-Code"
+msgstr "Нажмите сюда и снова просканируйте QR-код"
+
+#: two-factor-login.php:1077
+msgid "Please re-sync or you might not be able to log in if you generate more OTPs without logging in."
+msgstr "Пожалуйста, выполните повторную синхронизацию или вы не сможете войти, если вы сгенерируете дополнительные одноразовые пароли без выполнения успешного входа."
+
+#: two-factor-login.php:1075
+msgid "You need to resync your device for Two Factor Authentication since the OTP you last used is many steps ahead of the server."
+msgstr "Вам требуется повторно синхронизировать ваше устройство для Двухфакторной Ааутентификации по причине того, что с последнего момента использования вами одноразовых паролей на сервере произошло слишком много событий."
+
+#: two-factor-login.php:1073
+msgid "Two Factor Authentication re-sync needed"
+msgstr "Двухфакторная Аутентификация - требуется повторная синхронизация"
+
+#: two-factor-login.php:1042 two-factor-login.php:1209
+msgid "(check your OTP app to get this password)"
+msgstr "(откройте ваше приложение OTP, чтобы получить пароль)"
+
+#: two-factor-login.php:1041
+msgid "One Time Password (i.e. 2FA)"
+msgstr "Одноразовый пароль (код TFA)"
+
+#: two-factor-login.php:1040 two-factor-login.php:1204
+msgid "You have to enter a username first."
+msgstr "Вы должны сначала ввести имя пользователя."
+
+#: two-factor-login.php:1039
+msgid "Click to enter One Time Password"
+msgstr "Нажмите для ввода одноразового пароля"
+
+#: two-factor-login.php:992
+msgid "Your counter on the server is currently on"
+msgstr "Ваш счётчик на сервере сейчас включен"
+
+#: two-factor-login.php:986
+msgid "Choose which algorithm for One Time Passwords you want to use."
+msgstr "Выберите какой алгоритм будет использоваться для генерации одноразовых паролей."
+
+#: two-factor-login.php:977
+msgid "Advanced settings"
+msgstr "Расширенные настройки"
+
+#: two-factor-login.php:962
+msgid "(update)"
+msgstr "(обновить)"
+
+#: two-factor-login.php:948
+msgid "One-time emergency codes are a feature of the Premium version of this plugin."
+msgstr "Одноразовые коды экстренного доступа доступны только в Премиум версии данного плагина."
+
+#: two-factor-login.php:919
+msgid "Private key: %s (base 32: %s)"
+msgstr "Секретный ключ: %s (base 32: %s)"
+
+#: two-factor-login.php:876 two-factor-login.php:888
+msgid "Current one-time password"
+msgstr "Текущий одноразовый пароль"
+
+#: two-factor-login.php:865
+msgid "Current codes (login: %s)"
+msgstr "Текущие коды (вход: %s)"
+
+#: two-factor-login.php:861
+msgid "Current codes"
+msgstr "Текущие коды"
+
+#: two-factor-login.php:795
+msgid "Private key:"
+msgstr "Секретный ключ:"
+
+#: two-factor-login.php:792
+msgid "Private key (base 32 - used by Google Authenticator and Authy):"
+msgstr "Секретный ключ (base 32 - используется в Google Authenticator и Authy):"
+
+#: two-factor-login.php:680
+msgid "Updating..."
+msgstr "Обновление..."
+
+#: two-factor-login.php:656 two-factor-login.php:931
+msgid "Reset private key"
+msgstr "Сбросить секретный ключ"
+
+#: two-factor-login.php:656
+msgid "Warning: if you reset this key you will have to update your apps with the new one. Are you sure you want this?"
+msgstr "Предупреждение: если вы сбросите этот ключ, необходимо будет обновить ключ в используемом вами приложении. Вы действительно уверены, что хотите этого?"
+
+#: two-factor-login.php:602
+msgid "User settings"
+msgstr "Настройки пользователя"
+
+#: two-factor-login.php:593 two-factor-login.php:597
+msgid "Plugin settings"
+msgstr "Настройки плагина"
+
+#: two-factor-login.php:570
+msgid "Two Factor Auth"
+msgstr "Two Factor Auth"
+
+#: two-factor-login.php:536
+msgid "Do require 2FA over XMLRPC (best option if you do not use XMLRPC or are unsure)"
+msgstr "Требовать 2FA через XMLRPC (если вы не используете XMLRPC, либо просто не уверены)"
+
+#: two-factor-login.php:535
+msgid "Do not require 2FA over XMLRPC (best option if you must use XMLRPC and your client does not support 2FA)"
+msgstr "Не требовать 2FA через XMLRPC (если вы используете XMLRPC и ваши приложения не имеют поддержки 2FA) "
+
+#: two-factor-login.php:499
+msgid "Multisite Super Admin"
+msgstr "Мультисайт Супер администратор"
+
+#: two-factor-login.php:463 two-factor-login.php:523
+msgid "HOTP (event based)"
+msgstr "HOTP (по счётчику - код будет доступен до тех пор, пока пользователь не запросит новый)"
+
+#: two-factor-login.php:463 two-factor-login.php:523
+msgid "TOTP (time based - most common algorithm; used by Google Authenticator)"
+msgstr "TOTP (по времени - код будет доступен в течение 30 секунд с момента его получения, после чего он автоматически обновится. Это наиболее распространённый алгоритм, например, он используется в Google Authenticator)"
+
+#: two-factor-login.php:446 two-factor-login.php:1291
+msgid "Disabled"
+msgstr "Отключено"
+
+#: two-factor-login.php:446
+msgid "Disable two-factor authentication"
+msgstr "Отключить двухфакторную аутентификацию"
+
+#: two-factor-login.php:436 two-factor-login.php:1287
+msgid "Enabled"
+msgstr "Включено"
+
+#: two-factor-login.php:436
+msgid "Enable two-factor authentication"
+msgstr "Включить двухфакторную аутентификацию"
+
+#: two-factor-login.php:433
+msgid "N.B. This site is configured to forbid you to log in if you disable two-factor authentication after your account is %d days old"
+msgstr "Примечание: этот сайт настроен так, что вам запрещается вход, если вы отключили двухфакторную аутентификацию после того как ваша учётная запись стала старше %d дней"
+
+#: two-factor-login.php:354 two-factor-login.php:1182
+msgid "The one-time password (TFA code) you entered was incorrect."
+msgstr "Введённый вами одноразовый код неверен. "
+
+#: two-factor-login.php:216
+msgid "The Two Factor Authentication plugin requires either the PHP openssl (preferred) or mcrypt module to be installed. Please ask your web hosting company to install one of them."
+msgstr "Плагину Двухфакторной Аутентификации требуется установленный любой модуль PHP openssl (предпочтительно) или mcrypt. Пожалуйста, обратитесь в службу поддержки вашего хостинга с просьбой установки одного из них."
+
+#: two-factor-login.php:216
+msgid "PHP OpenSSL or mcrypt module required"
+msgstr "Требуется модуль PHP OpenSSL или mcrypt"
+
+#: two-factor-login.php:209
+msgid "The Two Factor Authentication plugin requires PHP version %s or higher - your current version is only %s."
+msgstr "Для плагина двухфакторной аутентификации требуется версия PHP %s или выше - ваша текущая версия %s."
+
+#: two-factor-login.php:209
+msgid "Higher PHP version required"
+msgstr "Требуется более высокая версия PHP"
+
+#: includes/user_settings.php:53
+msgid "Activate two factor authentication"
+msgstr "Активировать двухфакторную аутентификацию"
+
+#: includes/user_settings.php:41
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: includes/user_settings.php:36
+msgid "Settings"
+msgstr "Настройки"
+
+#. Plugin Name of the plugin
+#: two-factor-login.php:570 two-factor-login.php:583 two-factor-login.php:584
+#: includes/user_settings.php:36
+msgid "Two Factor Authentication"
+msgstr "Двухфакторная аутентификация"
+
+#: includes/tfa_frontend.php:302
+msgid "Two factor authentication is not available for your user."
+msgstr "Двухфакторная аутентификация недоступна для вашего пользователя."
+
+#: two-factor-login.php:693 two-factor-login.php:715
+#: includes/tfa_frontend.php:235 includes/tfa_frontend.php:271
+msgid "Response:"
+msgstr "Ответ:"
+
+#: includes/tfa_frontend.php:186
+msgid "Saving..."
+msgstr "Сохранение..."
+
+#: includes/tfa_frontend.php:168
+msgid "You have unsaved settings."
+msgstr "У вас есть несохраненные настройки."
+
+#: includes/tfa_frontend.php:121 includes/tfa_frontend.php:139
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: includes/tfa_frontend.php:86
+msgid "an event based"
+msgstr "на основе счётчика"
+
+#: includes/tfa_frontend.php:86
+msgid "a time based"
+msgstr "на основе времени"
+
+#: includes/class-simba-tfa.php:383
+msgid "You are attempting to log in to an account that has two-factor authentication enabled; this requires you to also have two-factor authentication enabled on the account whose credentials you are using."
+msgstr "Вы пытаетесь войти под учётной записью для которой включена двухфакторная аутентификация. Для этого необходимо, чтобы также была включена двухфакторная аутентификация для учётной записи, что вы сейчас используете."
+
+#: includes/class-simba-tfa.php:369
+msgid "The site owner has forbidden you to login without two-factor authentication. Please contact the site owner to re-gain access."
+msgstr "Владелец сайта запретил вам вход без использования двухфакторной аутентификации. Пожалуйста, свяжитесь с владельцем сайта, чтобы получить доступ снова."
+
+#: two-factor-login.php:354 two-factor-login.php:1182
+#: includes/class-simba-tfa.php:352 includes/class-simba-tfa.php:369
+#: includes/class-simba-tfa.php:383
+msgid "Error:"
+msgstr "Ошибка:"
+
+#: includes/tfa_frontend.php:115 includes/class-simba-tfa.php:196
+msgid "No emergency codes left. Sorry."
+msgstr "Простите, но кодов экстренного доступа больше не осталось. "
+
+#: includes/admin_settings.php:223
+msgid "Translations"
+msgstr "Переводы"
+
+#: includes/admin_settings.php:217
+msgid "access to our personal support desk for 12 months."
+msgstr "персональный доступ к службе поддержки на 12 месяцев."
+
+#: includes/admin_settings.php:217
+msgid "Personal support"
+msgstr "Персональная поддержка"
+
+#: includes/admin_settings.php:216
+msgid "flexible shortcodes allowing you to design your front-end settings page for your users exactly as you wish."
+msgstr "гибкие шорткоды позволяющие спроектировать настройки фрот-енда именно такими, какими хотите."
+
+#: includes/admin_settings.php:216
+msgid "More shortcodes"
+msgstr "Больше шорткодов"
+
+#: includes/admin_settings.php:215
+msgid "enable, disable or see TFA codes for all your users from one central location."
+msgstr "включить, отключить или посмотреть TFA коды всех ваших пользователей из в одном месте."
+
+#: includes/admin_settings.php:215
+msgid "Manage all users centrally"
+msgstr "Управление всеми пользователями централизованно"
+
+#: includes/admin_settings.php:212
+msgid "provide your users with one-time codes to use in case they lose their device."
+msgstr "предоставляет вашим пользователям одноразовые коды на случай утери их устройства."
+
+#: two-factor-login.php:946 includes/admin_settings.php:212
+msgid "Emergency codes"
+msgstr "Коды экстренного доступа"
+
+#: includes/admin_settings.php:208
+msgid "It comes with these extra features:"
+msgstr "Поставляется со следующими дополнительными возможностями:"
+
+#: includes/admin_settings.php:208
+msgid "If you want to say 'thank you' or help this plugin's development, or get extra features, then please take a look at the premium version of this plugin."
+msgstr "Если хотите сказать спасибо или помочь разработчикам, или получить какие-то дополнительные возможности, тогда обратите внимание на премиум версию данного плагина."
+
+#: includes/admin_settings.php:197
+msgid "Change to email"
+msgstr "Переключиться на email"
+
+#: includes/admin_settings.php:195
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/admin_settings.php:162
+msgid "Another way to do that is by using a user-switching plugin like this one."
+msgstr "Другой способ сделать это - использовать плагин для переключения пользователей, такой как этот. "
+
+#: includes/admin_settings.php:160
+msgid "The Premium version of this plugin allows you to see and reset the TFA settings of other users."
+msgstr "Премиум версия этого плагина позволяет смотреть и сбрасывать настройки двухфакторной аутентификации других пользователей. "
+
+#: includes/admin_settings.php:154
+msgid "Users' settings"
+msgstr "Настройки пользователей"
+
+#: includes/admin_settings.php:132
+msgid "Your users can change this in their own settings if they want."
+msgstr "Ваши пользователи могут изменить это в их собственных настройках, если захотят."
+
+#: includes/admin_settings.php:131
+msgid "Default algorithm"
+msgstr "Алгоритм по умолчанию"
+
+#: includes/admin_settings.php:114
+msgid " i.e. XMLRPC requests coming in to WordPress (whether from a legitimate app, or from an attacker) can only be verified using the password - not with a two-factor code. As a result, there not be an ideal option to pick below. You may have to choose between the convenience of using your apps, or the security of two factor authentication."
+msgstr "Примечание: В некоторых случаях XMLRPC запросы поступающие в WordPress (от совершенно легальных приложений или атакующих) могут аутентифицироваться только по паролю, а не с помощью двухфакторной аутентификации. Вероятно, вам придётся выбрать менее предпочтительный вариант, выбирая между удобством использования ваших приложений и безопасностью в виде двухфакторной аутентификации."
+
+#: includes/admin_settings.php:110
+msgid "Unfortunately, XMLRPC also provides a way for attackers to perform actions on your WordPress site, using only a password (i.e. without a two-factor password). More unfortunately, authors of legitimate programmes using XMLRPC have not yet added two-factor support to their code."
+msgstr "К сожалению, XMLRPC также предоставляет возможность для выполнения атак на ваш сайт WordPress, используя только пароль (т.е. без двухфакторной аутентификации). Более того, часто авторы легальных программ, использующих XMLRPC, до сих пор так и не добавили поддержку двухфакторной аутентификации в их код."
+
+#: includes/admin_settings.php:106
+msgid "XMLRPC is a feature within WordPress allowing other computers to talk to your WordPress install. For example, it could be used by an app on your tablet that allows you to blog directly from the app (instead of needing the WordPress dashboard)."
+msgstr "XMLRPC это функция в WordPress, позволяющая другим компьютерам общаться с вашим экземпляром WordPress. Например, она может использоваться приложением на вашем планшете для того, чтобы вести блог прямо из него, а не из консоли WordPress."
+
+#: includes/admin_settings.php:102
+msgid "XMLRPC requests"
+msgstr "XMLRPC запросы"
+
+#: includes/admin_settings.php:77
+msgid "Requiring users to use two-factor authentication is a feature of the Premium version of this plugin."
+msgstr "Требование обязательного использования двухфакторной аутентификации пользователей это опция Премиум версии данного плагина."
+
+#: includes/admin_settings.php:73
+msgid "Make two factor authentication compulsory"
+msgstr "Сделать двухфакторную аутентификацию обязательной"
+
+#: includes/admin_settings.php:64
+msgid "Choose which user roles will have two factor authentication available."
+msgstr "Выберите каким ролям пользователей будет доступна двухфакторная аутентификация."
+
+#: includes/admin_settings.php:63
+msgid "User roles"
+msgstr "Пользовательские роли"
+
+#: includes/admin_settings.php:51
+msgid "N.B. These two-factor settings apply to your entire WordPress network. (i.e. They are not localised to one particular site)."
+msgstr "Примечание: Настройки двухфакторной аутентификации применяется целиком к вашей сети WordPress. (они не относятся к какому-то конкретному сайту)."
+
+#: includes/admin_settings.php:39
+msgid "Two factor authentication is currently disabled via the TWO_FACTOR_DISABLE constant (which is mostly likely to be defined in your wp-config.php)"
+msgstr "Двухфакторная аутентификация в данный момент выключена через константу TWO_FACTOR_DISABLE (которая обычно определяется через файл wp-config.php)"
+
+#: includes/admin_settings.php:37
+msgid "Two Factor Authentication currently disabled"
+msgstr "Двухфакторная аутентификация в настоящее время отключена"
+
+#: includes/admin_settings.php:30
+msgid "Lead developer's homepage"
+msgstr "Домашняя страница ведущего разработчика"
+
+#: includes/admin_settings.php:28
+msgid "Twitter"
+msgstr "Твиттер"
+
+#: includes/admin_settings.php:27
+msgid "More premium plugins"
+msgstr "Больше премиум плагинов"
+
+#: includes/admin_settings.php:26
+msgid "WordPress backups"
+msgstr "Резервное копирование WordPress"
+
+#: includes/admin_settings.php:25
+msgid "More free plugins"
+msgstr "Больше бесплатных плагинов"
+
+#: includes/admin_settings.php:24
+msgid "Support"
+msgstr "Поддержка"
+
+#: includes/admin_settings.php:20 includes/admin_settings.php:206
+msgid "Premium version"
+msgstr "Премиум версия"
+
+#: includes/admin_settings.php:15
+msgid "Two Factor Authentication (Version: %s) - Admin Settings"
+msgstr "Двухфакторная аутентификация (Версия: %s) - Настройки администратора"

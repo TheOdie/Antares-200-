@@ -1,0 +1,20 @@
+
+# BEGIN WordPress
+# Директивы (строки) между `BEGIN WordPress` и `END WordPress`
+# созданы автоматически и подлежат изменению только через фильтры WordPress.
+# Сделанные вручную изменения между этими маркерами будут перезаписаны.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^.*/(\d+)-.*/$ generalo/index\.php?id=$1&%{QUERY_STRING} [L]
+RewriteRule ^(.*)-item-\d+/$ generalo/index\.php?cat=$1&%{QUERY_STRING} [L]
+RewriteRule ^.*(page[a-z]+map\.xml)$  sitepage/$1 [L]
+RewriteRule ^.*(sitemap\.xml)$  sitepage/$1 [L]
+
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

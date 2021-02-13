@@ -1,0 +1,22 @@
+/*
+Theme Name:Antares
+ */
+@font-face {
+  font-family: Gilroy-ExtraBold;
+  src: url("/wp-content/themes/Antares/fonts/Gilroy-ExtraBold.ttf");
+}
+@font-face {
+  font-family: Gilroy-Light;
+  src: url("/wp-content/themes/Antares/fonts/Gilroy-Light.ttf");
+}
+@font-face {
+  font-family: Gilroy-Regular;
+  src: url("/wp-content/themes/Antares/fonts/Gilroy-Regular.ttf");
+}
+/* efgtw4ente */
+a:hover {
+  text-decoration: none !important;
+}
+html {
+  scroll-behavior: smooth;
+}

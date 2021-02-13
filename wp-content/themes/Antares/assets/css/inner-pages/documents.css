@@ -1,0 +1,44 @@
+.documents-navigation {
+    background-color: transparent!important;
+    border: 1px solid #fabb00!important;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.documents-navigation.active{
+    color: black!important;
+    background-color: #fabb00!important;
+
+}
+.documents-navigation:focus {
+    background-color: #fabb00!important;
+    color: black!important;
+}
+
+
+
+.document-item img{
+    width: 100%;
+    height: auto;
+}
+
+.document-nav-item{
+    margin-bottom: 10px;
+}
+
+.documents-navigation{
+    display: block;
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 426px){
+    .change-tab {
+        margin-bottom: 25px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1025px){
+
+}
+@media screen and (max-width: 768px){
+
+}
